@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Translit: Russian Cyrillic -> Latin (SEF)",
+        "command": "transliterate_selection", "args":
+        {
+            "dictionary_file": "SEF_ru.json",
+            "invert_mapping": false
+        }
+    }
+]
